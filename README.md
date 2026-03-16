@@ -1,5 +1,3 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=Vitgracer&repo=Offline-Voice-LLM-Assistant&countColor=%237B1E7A)
-
 # Offline-Voice-LLM-assistant
 This project is an experiment in **running small but capable language models entirely offline** on your own laptop. The goal is to create a **private, local AI assistant** that does **not send your data anywhere**, with full control over the model and the process — no cloud, no telemetry, and no limitations.
 
@@ -95,5 +93,3 @@ This is a lightweight personal assistant that respects your data and your contro
 ### 🌟 Like it? Star it!
 
 If this little offline AI assistant made you smile — don’t forget to smash that ⭐️ button!
-
-[![Star](https://img.shields.io/github/stars/Vitgracer/Offline-Voice-LLM-assistant?style=social)](https://github.com/Vitgracer/Offline-Voice-LLM-Assistant)
